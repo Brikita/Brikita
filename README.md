@@ -2,7 +2,8 @@
 
 - 👋 Hi, I’m Brian Kinyua
 - 👀 I’m interested in tackling challenges which can be solved using technology. 
-- 🌱 I’m currently learning Web Development in a bootcamp held by the DirectEd Foundation.
+- 🌱 I’m currently a full-stack Web Deeloper.
+- 📚 I'm at university. (JKUAT)
 - 💞️ I’m looking to collaborate on projects with my fellow students and other people in the future.
 - 📫 How to reach me, You could email me at briankinyua0101@gmail.com.
 - During my freetime I: - I love watching movies and series.
