@@ -17,7 +17,8 @@ I possess a diverse skill set built on hands-on experience and advanced certific
 | **Databases/ORMs** | **MongoDB**, **MySQL**, **Prisma**, Redis | 
 | **Game Dev** | **Unity** Engine | 
 | **Data Science & ML** | **TensorFlow**, **Pandas**, NumPy, Scientific Computing, AI Fundamentals | 
-| **DevOps/Tools** | Git, Docker, CI/CD, Vibe Coding | 
+| **DevOps/Tools** | Git, Docker, CI/CD, Vibe Coding |
+| **Low Code** | Zoho (Certified) |
 
 ### 🌟 Advanced Certifications
 
@@ -28,6 +29,8 @@ My commitment to emerging tech is demonstrated by specialized training:
 * **DeepLearning.AI:** TensorFlow Developer Professional Certificate.
 
 * **IBM:** AI Fundamentals and Data Science Fundamentals.
+  
+* **Zoho:** Zoho Creator Training Course.
 
 ---
 
