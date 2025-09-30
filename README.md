@@ -1,25 +1,52 @@
- 
+# 👋 Hi, I’m Brian Kinyua (Brikita)
 
-- 👋 Hi, I’m Brian Kinyua
-- 👀 I’m interested in tackling challenges which can be solved using technology. 
-- 🌱 I’m currently a full-stack Web Deeloper.
-- 📚 I'm at university. (JKUAT)
-- 💞️ I’m looking to collaborate on projects with my fellow students and other people in the future.
-- 📫 How to reach me, You could email me at briankinyua0101@gmail.com.
-- During my freetime I: - I love watching movies and series.
-                        - Playing video games.
-                        - Explore the internet.
-                        - I try out new recipes. (not that often 😜 )
-                       
+### Aspiring Software Engineer | Full-Stack Web & Game Developer | LLM & AI Enthusiast
 
- I am a very dedicated student and a very innovative person. I can also describe myself as a perfectionist. I am aslo eager to learn new things and I like being corrected, I find it better learning from your mistakes. I love teamwork and am quite happy working with other teammates.
- 
- I love music very much. I listen to the Hiphop genre mainly, but I also find RnB music quite pleasing as well. I appreciate music of all genres though. Music helps me relax and meditate. I find it very amusing working while listening to music. My G.O.A.T artist is Lil Baby. I also respect other great artists such as Eminem and 50 cent.
- 
- 
+I'm a dedicated third-year **Computer Science student** at Jomo Kenyatta University of Agriculture and Technology (JKUAT) who is passionate about leveraging technology to solve complex challenges. I am a detail-oriented problem-solver who thrives in collaborative environments and is eager to learn and grow from every experience.
 
+---
 
-<!---
-Brikita/Brikita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Technical Focus & Expertise
+
+My technical background is built upon hands-on internship experience and advanced certifications, focusing primarily on:
+
+* **Full-Stack Development:** Proven experience building robust web applications using **React.js, Node.js, Express.js, MongoDB/MySQL,** and modern tools like **Prisma** and **Next.js**.
+
+* **Game Development:** Hands-on experience contributing to mobile and PC game projects using the **Unity** engine.
+
+* **Emerging Tech (AI/ML):** Certified expertise in **Large Language Models (LLMs)**, **TensorFlow**, and accelerating data science workflows.
+
+### 🌟 Key Certifications
+
+| Institution | Certification/Course | Focus | 
+ | ----- | ----- | ----- | 
+| **NVIDIA DLI** | Building LLMs with Prompt Engineering | LLM Customization and Deployment | 
+| **DeepLearning.AI** | TensorFlow Developer Professional Certificate | Deep Learning & Neural Networks | 
+| **IBM** | AI & Data Science Fundamentals | Data Analysis and AI Concepts | 
+
+---
+
+## 🌱 Currently
+
+* **Learning:** Diving deeper into **CI/CD** pipelines and **Docker** for robust deployment strategies.
+
+* **Academics:** Advancing through my Computer Science degree at JKUAT.
+
+* **Seeking:** A challenging **Software Engineering Internship** to apply my full-stack, game development, and AI knowledge.
+
+---
+
+## 📫 Let's Connect!
+
+| Contact Channel | Details | 
+ | ----- | ----- | 
+| **Email** | [briankinyua0101@gmail.com](mailto:briankinyua0101@gmail.com) | 
+| **LinkedIn** | https://www.linkedin.com/in/briankinyua | 
+
+---
+
+## 🎮 A Little About Me (When I'm not coding)
+
+* **Music:** Huge fan of Hip-Hop and RnB. Music helps me focus and meditate while I work. My G.O.A.T is Lil Baby.
+
+* **Relaxation:** Watching movies, playing video games, and occasionally exploring new recipes in the kitchen!
