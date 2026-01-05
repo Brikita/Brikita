@@ -40,7 +40,7 @@ A sample of projects demonstrating my proficiency across different domains:
 
 * **Pathfinder-Ke (Game Development):** A game developed to help users in **career exploration** by simulating real-world choices and pathways. *(Tech Stack: Unity, C#)*
 
-* **Campusevents (Web Development):** A comprehensive platform for **managing and discovering campus events**, enabling students to create, browse, and RSVP to university events with real-time updates and notifications. *(Tech Stack: React.js, Node.js, Express.js, MongoDB, Prisma)*
+* **Campus Events (Web Development):** A modern campus event discovery and management platform enabling students to browse events, subscribe with calendar integration, receive smart reminders (email & SMS), and check-in with QR codes. Features organizer analytics, automated weekly digests, and a feedback system. *(Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, Supabase, Twilio Verify, Resend API)*
 
 * **NFT Marketplace (Web Developer Contribution):** Built key front-end and smart-contract interaction features for a decentralized application. *(Tech Stack: React.js, Web3/Ethers.js, Next.js)*
 
