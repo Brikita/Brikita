@@ -39,10 +39,10 @@ My commitment to emerging tech is demonstrated by specialized training:
 A sample of projects demonstrating my proficiency across different domains:
 
 * **SemSync (Academic Organization & Collaboration Platform):** A web-based platform built to streamline the academic experience for university students and instructors. It replaces disjointed calendars and messaging apps with a centralized hub for managing schedules, assignments, file sharing, and class announcements. *(Tech Stack: React 18, TypeScript, TailwindCSS, Firebase (Auth, Firestore, Storage))*
-  * 📅 **Dynamic Timetables:** Visual schedule management with class-specific details.
-  * 📢 **Instant Notifications:** Real-time alerts for announcements, class postponements, and deadlines.
-  * 📚 **Resource Library:** Organized file repository (PDFs, Notes) with role-based uploads and progress tracking.
-  * 👥 **Role-Based Workflows:** Distinct dashboards for Students and Instructors.
+  * **Dynamic Timetables:** Visual schedule management with class-specific details.
+  * **Instant Notifications:** Real-time alerts for announcements, class postponements, and deadlines.
+  * **Resource Library:** Organized file repository (PDFs, Notes) with role-based uploads and progress tracking.
+  * **Role-Based Workflows:** Distinct dashboards for Students and Instructors.
 
 * **Pathfinder-Ke (Game Development):** A game developed to help users in **career exploration** by simulating real-world choices and pathways. *(Tech Stack: Unity, C#)*
 
