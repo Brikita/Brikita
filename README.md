@@ -1,72 +1,47 @@
-# 👋 Hi, I’m Brian Kinyua (Brikita)
+# Hi, I am Brian Kinyua Mwangi (Brikita)
 
-### Computer Science Student | Full-Stack, Game Dev, & Data Science Enthusiast | AI/ML Focus
+### Software Engineer | Specializing in Mobile & Web Ecosystems
 
-I'm a third-year **Computer Science student** at Jomo Kenyatta University of Agriculture and Technology (JKUAT) who is driven by complex technical challenges. I thrive on translating innovative ideas into functional, well-engineered solutions, specializing across the full stack, game development, and emerging AI/Data Science disciplines.
+I am a third-year Computer Science student at Jomo Kenyatta University of Agriculture and Technology (JKUAT) with a passion for building software that solves real-world problems. While I have a strong academic foundation in Native Android (Kotlin), I currently specialize in building cross-platform mobile applications using **Flutter & Dart**. 
+
+I believe in a "shipping mindset", I don't just write code; I build complete ecosystems. Whether it is engineering an offline-first class scheduler with local SQLite caching or architecting a university-wide event platform with a React frontend and a mobile client, I focus on performance, user experience, and scalable backend integrations.
 
 ---
 
-## 🚀 Technical Expertise & Core Skills
+## Tech Stack & Tools
 
-I possess a diverse skill set built on hands-on experience and advanced certifications:
-
-| Category | Skills & Technologies | 
+| Category | Technologies | 
 | :--- | :--- | 
-| **Languages** | **Python**, **C++**, **JavaScript**, C# (for Unity) | 
-| **Web Development** | HTML, CSS, **React.js**, **Next.js**, **Node.js**, **Express.js**, React Native | 
-| **Databases/ORMs** | **MongoDB**, **MySQL**, **Prisma**, Redis | 
-| **Game Dev** | **Unity** Engine | 
-| **Data Science & ML** | **TensorFlow**, **Pandas**, NumPy, Scientific Computing, AI Fundamentals | 
-| **DevOps/Tools** | Git, Docker, CI/CD, Vibe Coding |
-| **Low Code** | Zoho (Certified) |
-
-### 🌟 Advanced Certifications
-
-My commitment to emerging tech is demonstrated by specialized training:
-
-* **NVIDIA DLI:** Building LLMs with Prompt Engineering, Evaluation and Light Customization of LLMs, Accelerating End-to-End Data Science Workflows.
-
-* **DeepLearning.AI:** TensorFlow Developer Professional Certificate.
-
-* **IBM:** AI Fundamentals and Data Science Fundamentals.
-  
-* **Zoho:** Zoho Creator Training Course.
+| **Mobile Development** | **Flutter**, **Dart**, Kotlin, Android SDK, SQLite | 
+| **Web & Backend** | **React.js**, **Next.js**, **TypeScript**, Node.js, Supabase, PostgreSQL | 
+| **Game & 3D Dev** | **Unity**, **C#**, Blender | 
+| **Tools & Cloud** | Git, Docker, Figma, Vercel, Firebase | 
+| **AI / Data Science** | Python, TensorFlow, Prompt Engineering (NVIDIA DLI Certified) | 
 
 ---
 
-## 💡 Highlighted Projects
+## Featured Projects
 
-A sample of projects demonstrating my proficiency across different domains:
+* **SemSync (Offline-First Academic Scheduler):** An offline-first academic scheduling assistant. Engineered with local caching to ensure students can track classes without internet access, featuring background fetch notifications for class reminders. *(Tech Stack: Flutter, Dart, SQLite, Local Notifications)*
 
-* **SemSync (Academic Organization & Collaboration Platform):** A web-based platform built to streamline the academic experience for university students and instructors. It replaces disjointed calendars and messaging apps with a centralized hub for managing schedules, assignments, file sharing, and class announcements. *(Tech Stack: React 18, TypeScript, TailwindCSS, Firebase (Auth, Firestore, Storage))*
-  * **Dynamic Timetables:** Visual schedule management with class-specific details.
-  * **Instant Notifications:** Real-time alerts for announcements, class postponements, and deadlines.
-  * **Resource Library:** Organized file repository (PDFs, Notes) with role-based uploads and progress tracking.
-  * **Role-Based Workflows:** Distinct dashboards for Students and Instructors.
+* **Campus-Events (Cross-Platform Event Ecosystem):** A cross-platform event discovery platform serving thousands of university students. Features a Flutter mobile client for real-time, location-based event discovery and a React web dashboard for organizers. *(Tech Stack: Flutter, React.js, Supabase, PostgreSQL)*
 
-* **Pathfinder-Ke (Game Development):** A game developed to help users in **career exploration** by simulating real-world choices and pathways. *(Tech Stack: Unity, C#)*
+* **Pathfinder KE (3D Career Exploration Game):** A 3D career exploration game simulating professional environments. Optimized rendering pipelines and memory usage to ensure smooth 60fps performance on low-end Android devices. *(Tech Stack: Unity, C#, Mobile Optimization)*
 
-* **Campus Events (Web Development):** A modern campus event discovery and management platform enabling students to browse events, subscribe with calendar integration, receive smart reminders (email & SMS), and check-in with QR codes. Features organizer analytics, automated weekly digests, and a feedback system. *(Tech Stack: React 18, TypeScript, Vite, Tailwind CSS, Supabase, Twilio Verify, Resend API)*
-
-* **NFT Marketplace (Web Developer Contribution):** Built key front-end and smart-contract interaction features for a decentralized application. *(Tech Stack: React.js, Web3/Ethers.js, Next.js)*
-
-* **Scientific Computing Repos:** Collection of algorithms and models focused on **\[Specific focus, e.g., numerical analysis or statistical modeling\]** using **Python** and specialized libraries.
-
-* **Other Projects:** Actively exploring and building projects in **\[Education, Finance and using LLMs for personalized recommendations \]**.
+* **Custom NFT Marketplace:** Spearheaded the end-to-end development of an NFT marketplace, from designing high-fidelity Figma prototypes to implementing a pixel-perfect React frontend and scalable MongoDB architecture. *(Tech Stack: React.js, Next.js, MongoDB)*
 
 ---
 
-## 📫 Connect & Collaborate
-
-I'm always looking to collaborate with fellow students and engineers on innovative projects.
+## Let's Connect
 
 | Channel | Details | 
 | :--- | :--- | 
+| **Portfolio** | [brian-kinyua.me](http://brian-kinyua.me/) | 
+| **LinkedIn** | [linkedin.com/in/briankinyua](https://www.linkedin.com/in/briankinyua) | 
 | **Email** | [briankinyua0101@gmail.com](mailto:briankinyua0101@gmail.com) | 
-| **LinkedIn** | https://www.linkedin.com/in/briankinyua/ | 
 
 ---
 
-## 🎧 Outside the Code Editor
+## Outside the Code Editor
 
-When I'm not coding, you can find me enjoying Hip-Hop and RnB (Lil Baby is the G.O.A.T), watching movies, playing video games, or trying out new recipes!
+When I am not coding, you can find me enjoying Neo-Soul and Retro-Soul music (especially Erykah Badu and Leon Bridges), reading Marvel MCU comics (Thor is my go-to), playing video games, or trying out new recipes!
