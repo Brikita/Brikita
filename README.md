@@ -1,10 +1,10 @@
 # Brian Kinyua Mwangi
 
-### Software Engineer | Applied AI, Mobile & Web Systems
+### Software Engineer | Applied AI
 
 I am a Computer Science student at Jomo Kenyatta University of Agriculture and Technology (JKUAT) building software for real constraints: unreliable connectivity, phone-first workflows, fragmented information, and automation that needs clear safety boundaries.
 
-My strongest work sits where mobile, web, and applied AI meet. I use Flutter and Kotlin for mobile products, React and Next.js for web experiences, and TypeScript, Python, Supabase, and PostgreSQL behind them.
+My strongest work sits where product engineering and applied AI meet. I use React and Next.js for web experiences, TypeScript and Python for application logic, and Supabase and PostgreSQL for dependable data systems. Kotlin supports selected Android and computer-vision work rather than defining my primary focus.
 
 I work with a shipping mindset. The goal is not just working code, but a complete, usable system with thoughtful UX, reliable data flows, security controls, and evidence that it works.
 
@@ -48,19 +48,19 @@ Private product rollout.
 
 ### [Campus Events](https://github.com/Brikita/CampusEvents)
 
-A cross-platform event-discovery ecosystem for university students, with an offline-capable Flutter client and a React organizer dashboard.
+A university event-discovery web platform with a React student experience and organizer dashboard.
 
-- Designed for real-time discovery without making connectivity a requirement.
+- Designed for clear, real-time event discovery and organizer publishing workflows.
 - Uses Supabase and PostgreSQL for event, organizer, and engagement workflows.
 - Optimized database queries to reduce dashboard load times by 40%.
 
-`Flutter` `Dart` `React` `TypeScript` `Supabase` `PostgreSQL`
+`React` `TypeScript` `Supabase` `PostgreSQL`
 
 ## Open source
 
 I contribute as **Brikita**. My largest upstream contribution so far is [SpareScout in CALL-E](https://github.com/CALLE-AI/awesome-phone-call-agents/pull/261), taken from product implementation through security review and merge.
 
-I am interested in open-source work around applied AI, developer tools, mobile systems, and trustworthy automation.
+I am interested in open-source work around applied AI, developer tools, dependable product systems, and trustworthy automation.
 
 ## Hackathons and product challenges
 
@@ -70,15 +70,15 @@ I am interested in open-source work around applied AI, developer tools, mobile s
 
 ## Toolbox
 
-- **Mobile:** Flutter, Dart, Kotlin, Android SDK, CameraX, SQLite
-- **Web:** React, Next.js, TypeScript, Tailwind CSS
+- **Languages:** TypeScript, Python, SQL, Java, Kotlin, C#
+- **Product engineering:** React, Next.js, Progressive Web Apps, Tailwind CSS, accessible UI
 - **Backend and data:** Node.js, FastAPI, Supabase, PostgreSQL, MongoDB, Neo4j, Cloudflare D1
 - **AI and systems:** CALL-E, Alpaca API, Python, OpenCV, agentic workflows, Docker, Git
 - **Game development:** Unity, C#, Blender
 
 ## More public builds
 
-[SemSync](https://github.com/Brikita/Sem-Sync) | [Pathfinder KE](https://github.com/Brikita/pathfinder-ke) | [SmartSeason](https://github.com/Brikita/SmartSeason) | [GitHub repositories](https://github.com/Brikita?tab=repositories)
+[Pathfinder KE](https://github.com/Brikita/pathfinder-ke) | [SmartSeason](https://github.com/Brikita/SmartSeason) | [SmartTrack](https://github.com/Brikita/Smart-Track) | [GitHub repositories](https://github.com/Brikita?tab=repositories)
 
 ## Outside the code editor
 
