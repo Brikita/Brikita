@@ -1,47 +1,85 @@
-# Hi, I am Brian Kinyua Mwangi (Brikita)
+# Brian Kinyua Mwangi
 
-### Software Engineer | Specializing in Mobile & Web Ecosystems
+### Software Engineer | Applied AI, Mobile & Web Systems
 
-I am a third-year Computer Science student at Jomo Kenyatta University of Agriculture and Technology (JKUAT) with a passion for building software that solves real-world problems. While I have a strong academic foundation in Native Android (Kotlin), I currently specialize in building cross-platform mobile applications using **Flutter & Dart**. 
+I am a Computer Science student at Jomo Kenyatta University of Agriculture and Technology (JKUAT) building software for real constraints: unreliable connectivity, phone-first workflows, fragmented information, and automation that needs clear safety boundaries.
 
-I believe in a "shipping mindset", I don't just write code; I build complete ecosystems. Whether it is engineering an offline-first class scheduler with local SQLite caching or architecting a university-wide event platform with a React frontend and a mobile client, I focus on performance, user experience, and scalable backend integrations.
+My strongest work sits where mobile, web, and applied AI meet. I use Flutter and Kotlin for mobile products, React and Next.js for web experiences, and TypeScript, Python, Supabase, and PostgreSQL behind them.
 
----
+I work with a shipping mindset. The goal is not just working code, but a complete, usable system with thoughtful UX, reliable data flows, security controls, and evidence that it works.
 
-## Tech Stack & Tools
+[Portfolio](https://brian-kinyua.me) | [LinkedIn](https://www.linkedin.com/in/briankinyua) | [Email](mailto:briankinyua0101@gmail.com)
 
-| Category | Technologies | 
-| :--- | :--- | 
-| **Mobile Development** | **Flutter**, **Dart**, Kotlin, Android SDK, SQLite | 
-| **Web & Backend** | **React.js**, **Next.js**, **TypeScript**, Node.js, Supabase, PostgreSQL | 
-| **Game & 3D Dev** | **Unity**, **C#**, Blender | 
-| **Tools & Cloud** | Git, Docker, Figma, Vercel, Firebase | 
-| **AI / Data Science** | Python, TensorFlow, Prompt Engineering (NVIDIA DLI Certified) | 
+## Featured work
 
----
+### [SpareScout](https://github.com/Brikita/Sp-Scout)
 
-## Featured Projects
+An approval-gated AI phone agent for sourcing vehicle parts from multiple suppliers and turning fragmented calls into structured, evidence-backed quotes.
 
-* **SemSync (Offline-First Academic Scheduler):** An offline-first academic scheduling assistant. Engineered with local caching to ensure students can track classes without internet access, featuring background fetch notifications for class reminders. *(Tech Stack: Flutter, Dart, SQLite, Local Notifications)*
+- Implemented operator authorization, recipient allowlisting, idempotent execution, durable history, and privacy safeguards.
+- Contributed the complete 71-file project to CALL-E's MIT-licensed ecosystem through a reviewed and [merged upstream pull request](https://github.com/CALLE-AI/awesome-phone-call-agents/pull/261).
+- [Try the live product](https://sp-scout.vercel.app).
 
-* **Campus-Events (Cross-Platform Event Ecosystem):** A cross-platform event discovery platform serving thousands of university students. Features a Flutter mobile client for real-time, location-based event discovery and a React web dashboard for organizers. *(Tech Stack: Flutter, React.js, Supabase, PostgreSQL)*
+`TypeScript` `React` `CALL-E` `Cloudflare D1` `AI agents`
 
-* **Pathfinder KE (3D Career Exploration Game):** A 3D career exploration game simulating professional environments. Optimized rendering pipelines and memory usage to ensure smooth 60fps performance on low-end Android devices. *(Tech Stack: Unity, C#, Mobile Optimization)*
+### VolGuard AI
 
-* **Custom NFT Marketplace:** Spearheaded the end-to-end development of an NFT marketplace, from designing high-fidelity Figma prototypes to implementing a pixel-perfect React frontend and scalable MongoDB architecture. *(Tech Stack: React.js, Next.js, MongoDB)*
+A risk-governed options research and paper-trading agent created for the Alpaca AI Trading Agents Hackathon and for my own day-trading research and learning.
 
----
+- Evaluates real SPY, QQQ, IWM, and GLD option-market data.
+- Uses twelve deterministic portfolio-risk gates, explicit abstention, and a paper-only execution boundary.
+- Keeps append-only scan evidence so decisions can be reviewed instead of treated as a black box.
 
-## Let's Connect
+`TypeScript` `React` `Alpaca API` `Options intelligence` `Cloudflare D1`
 
-| Channel | Details | 
-| :--- | :--- | 
-| **Portfolio** | [brian-kinyua.me](http://brian-kinyua.me/) | 
-| **LinkedIn** | [linkedin.com/in/briankinyua](https://www.linkedin.com/in/briankinyua) | 
-| **Email** | [briankinyua0101@gmail.com](mailto:briankinyua0101@gmail.com) | 
+Public release planned.
 
----
+### AuraCare
 
-## Outside the Code Editor
+A bilingual inventory and fulfillment PWA for adult family homes, designed around the workflows of Caregivers, Managers, and Owners.
 
-When I am not coding, you can find me enjoying Neo-Soul and Retro-Soul music (especially Erykah Badu and Leon Bridges), reading Marvel MCU comics (Thor is my go-to), playing video games, or trying out new recipes!
+- Supports English and Kiswahili with role- and home-scoped workflows.
+- Connects Caregiver requests, Manager dispatch, physical receipt, and atomic stock reconciliation.
+- Enforces multi-tenant isolation with Supabase RLS and preserves immutable lifecycle history.
+
+`TypeScript` `React` `PWA` `Supabase` `PostgreSQL` `Tailwind CSS`
+
+Private product rollout.
+
+### [Campus Events](https://github.com/Brikita/CampusEvents)
+
+A cross-platform event-discovery ecosystem for university students, with an offline-capable Flutter client and a React organizer dashboard.
+
+- Designed for real-time discovery without making connectivity a requirement.
+- Uses Supabase and PostgreSQL for event, organizer, and engagement workflows.
+- Optimized database queries to reduce dashboard load times by 40%.
+
+`Flutter` `Dart` `React` `TypeScript` `Supabase` `PostgreSQL`
+
+## Open source
+
+I contribute as **Brikita**. My largest upstream contribution so far is [SpareScout in CALL-E](https://github.com/CALLE-AI/awesome-phone-call-agents/pull/261), taken from product implementation through security review and merge.
+
+I am interested in open-source work around applied AI, developer tools, mobile systems, and trustworthy automation.
+
+## Hackathons and product challenges
+
+- **VolGuard AI, Alpaca AI Trading Agents Hackathon:** auditable options intelligence with deterministic risk controls.
+- **[AfracaNet AI](https://github.com/Brikita/afracanet-green-path), Kenya AI Challenge:** offline, bilingual alternative credit scoring for rural farmers using graph underwriting and explainable AI.
+- **[SmartTrack](https://github.com/Brikita/Smart-Track), Startup School Kenya Assistive Tech Innovation Hackathon at JKUAT:** second-place assistive technology for visually impaired runners using Android, computer vision, lane-drift detection, and haptic feedback.
+
+## Toolbox
+
+- **Mobile:** Flutter, Dart, Kotlin, Android SDK, CameraX, SQLite
+- **Web:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend and data:** Node.js, FastAPI, Supabase, PostgreSQL, MongoDB, Neo4j, Cloudflare D1
+- **AI and systems:** CALL-E, Alpaca API, Python, OpenCV, agentic workflows, Docker, Git
+- **Game development:** Unity, C#, Blender
+
+## More public builds
+
+[SemSync](https://github.com/Brikita/Sem-Sync) | [Pathfinder KE](https://github.com/Brikita/pathfinder-ke) | [SmartSeason](https://github.com/Brikita/SmartSeason) | [GitHub repositories](https://github.com/Brikita?tab=repositories)
+
+## Outside the code editor
+
+I listen to Neo-Soul and Retro-Soul, especially Erykah Badu and Leon Bridges. I also read Marvel comics, play video games, experiment with new recipes, and will usually pick Thor when the conversation turns to the MCU.
